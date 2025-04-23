@@ -1,0 +1,18 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #737373;
+    color: #ffffff;
+  }
+  
+  .home-container img {
+    width: 400px;
+    margin-top: 20px;
+  }
+  
+  .footer-credit {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 14px;
+  }
+  

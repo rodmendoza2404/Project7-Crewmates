@@ -1,0 +1,30 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #575757;
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+}
+
+.sidebar a {
+  color: #fff;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.sidebar a:hover {
+  background-color: #414141;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 40px;
+  background-color: #737373;
+  overflow-y: auto;
+}

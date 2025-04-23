@@ -4,7 +4,7 @@ Submitted by: **Rodrigo Mendoza**
 
 This web app: **project 7**
 
-Time spent: **18** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
